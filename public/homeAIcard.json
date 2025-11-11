@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Interstellar",
+    "image": "https://i.pinimg.com/736x/93/88/d6/9388d6a6054fbea8b9e431bec4898e26.jpg",
+    "desc": "A journey beyond the stars."
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "image": "https://i.pinimg.com/1200x/31/12/1d/31121d2058a5aa4da918d4eca3aec39f.jpg",
+    "desc": "Your mind is the scene of the crime."
+  },
+  {
+    "id": 3,
+    "title": "Dune",
+    "image": "https://i.pinimg.com/736x/2c/b1/5b/2cb15b7f77176bea102c98902e37a2b8.jpg",
+    "desc": "A desert planet. A rising hero."
+  }
+]

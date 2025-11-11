@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Interstellar",
+    "image": "https://i.pinimg.com/736x/93/88/d6/9388d6a6054fbea8b9e431bec4898e26.jpg",
+    "desc": "A journey beyond the stars."
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "image": "https://i.pinimg.com/1200x/31/12/1d/31121d2058a5aa4da918d4eca3aec39f.jpg",
+    "desc": "Your mind is the scene of the crime."
+  },
+  {
+    "id": 3,
+    "title": "Dune",
+    "image": "https://i.pinimg.com/1200x/a4/18/62/a418625b4d45d7d33e8901a8530206f2.jpg",
+    "desc": "A desert planet. A rising hero."
+  },
+  {
+    "id": 4,
+    "title": "Dune",
+    "image": "https://i.pinimg.com/736x/0d/f4/f2/0df4f2bc7953cf703373bad0a1a6a499.jpg",
+    "desc": "A desert planet. A rising hero."
+  },
+  {
+    "id": 5,
+    "title": "Dune",
+    "image": "https://i.pinimg.com/736x/2c/b1/5b/2cb15b7f77176bea102c98902e37a2b8.jpg",
+    "desc": "A desert planet. A rising hero."
+  },
+  {
+    "id": 6,
+    "title": "The Batman",
+    "image": "https://i.pinimg.com/736x/56/78/35/567835c703d09b0d9d3d9c8d1b8b8e7e.jpg",
+    "desc": "Vengeance knows no bounds."
+  },
+  {
+    "id": 7,
+    "title": "Spider-Man: No Way Home",
+    "image": "https://i.pinimg.com/736x/9e/3d/0d/9e3d0d8d8a8e8b8b8b8b8b8b8b8b8b8b.jpg",
+    "desc": "The multiverse unfolds."
+  },
+  {
+    "id": 8,
+    "title": "Top Gun: Maverick",
+    "image": "https://i.pinimg.com/736x/4f/2d/8a/4f2d8a8a8a8a8a8a8a8a8a8a8a8a8a8a.jpg",
+    "desc": "Feel the need for speed."
+  },
+  {
+    "id": 9,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "image": "https://i.pinimg.com/736x/8a/4f/2d/8a4f2d8a8a8a8a8a8a8a8a8a8a8a8a8a.jpg",
+    "desc": "The madness begins."
+  },
+  {
+    "id": 10,
+    "title": "Black Panther: Wakanda Forever",
+    "image": "https://i.pinimg.com/736x/2d/8a/4f/2d8a4f8a8a8a8a8a8a8a8a8a8a8a8a8a.jpg",
+    "desc": "The legacy continues."
+  },
+  {
+    "id": 11,
+    "title": "Avatar: The Way of Water",
+    "image": "https://i.pinimg.com/736x/8a/2d/4f/8a2d4f8a8a8a8a8a8a8a8a8a8a8a8a8a.jpg",
+    "desc": "Return to Pandora."
+  },
+  {
+    "id": 12,
+    "title": "Avengers: Endgame",
+    "image": "https://i.pinimg.com/736x/3d/9e/0d/3d9e0d8d8a8e8b8b8b8b8b8b8b8b8b8b.jpg",
+    "desc": "The end of an era."
+  }
+]
